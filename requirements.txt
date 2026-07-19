@@ -1,0 +1,8 @@
+numpy<2
+yt-dlp>=2024.1.0
+pyannote.audio>=3.1.0
+openai-whisper>=20231117
+torch>=2.0.0,<2.5.0
+torchaudio>=2.0.0,<2.5.0
+pandas>=2.0.0
+plotly>=5.18.0

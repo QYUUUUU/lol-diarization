@@ -1,0 +1,9 @@
+[
+  { "event": "First Blood", "time": 396 },
+  { "event": "First Dragon", "time": 628 },
+  { "event": "First Turret", "time": 1185 },
+  { "event": "First Herald (equipe adverse)", "time": 1311 },
+  { "event": "Second Dragon", "time": 1568 },
+  { "event": "First Baron Nashor", "time": 1723 },
+  { "event": "Game 1 End (Victoire)", "time": 2272 }
+]
